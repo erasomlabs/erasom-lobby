@@ -11,6 +11,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import android.view.ViewGroup
 import erasom.lobby.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
