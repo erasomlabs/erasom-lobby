@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Erasom Lobby</string>
+    <string name="lobby_title">Lobby</string>
+    <string name="lobby_subtitle">Conecta con el mundo</string>
+    <string name="show">Mostrar</string>
+    <string name="save">Guardar</string>
+    <string name="saved">Preferencias guardadas</string>
+    <string name="back">Atrás</string>
+    <string name="more_on_play">Más en Google Play</string>
+</resources>
