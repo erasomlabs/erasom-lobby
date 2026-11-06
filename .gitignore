@@ -1,3 +1,9 @@
 # Erasom Lobby
 *.ap_
 *.class
+# Local Netlify folder
+.netlify
+
+.agents/
+
+03_build/
