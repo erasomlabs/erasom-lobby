@@ -7,3 +7,9 @@
 .agents/
 
 03_build/
+
+# Netlify staging
+.deploy/
+
+# Build artifacts
+03_build/
